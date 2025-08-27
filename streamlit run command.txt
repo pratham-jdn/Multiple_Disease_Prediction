@@ -1,0 +1,1 @@
+streamlit run "\Users\prathamkumar\Documents\pratham\ML2\multiple disease prediction\multiple disease pred.py"
